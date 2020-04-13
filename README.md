@@ -9,7 +9,7 @@ This project was created so that I could learn and understand C# using Visual St
 - [ ] create a simple webpage (since I studied full-stack dev)
 
 ### 13 April Notes :
-What I have learned and understood so far was how to create the environment. 
+What I have learned and understood so far was how to create the environment. You can follow through the detailed steps from the link previously mentioned. Or you could just briefly read through this.
 
 Pre-requisites for setting up: 
 - Installed [VSC](https://code.visualstudio.com/)
@@ -23,6 +23,7 @@ To setup the environment:
 
     If you want to try using my way: 
     - Press "Windows key" + "r"
+    - Type in "cmd prompt"
     - Press "Ctrl" + "Shift" + "Enter" (to enable Admin)
     - Allow admin control
     - key in "mkdir _name-of-project_" into the terminal and press "Enter" (creates _name-of-project_ folder)

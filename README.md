@@ -11,6 +11,8 @@ This project was created so that I could learn and understand C# using Visual St
 ### 13 April Notes :
 What I have learned and understood so far was how to create the environment. You can follow through the detailed steps from the link previously mentioned. Or you could just briefly read through this.
 
+#### Setting up the environment
+
 Pre-requisites for setting up: 
 - Installed [VSC](https://code.visualstudio.com/)
 - Installed [.NET SDK](https://dotnet.microsoft.com/download)
@@ -57,4 +59,10 @@ To setup the environment:
 
     If all goes well, your terminal will show "Hello World."
 
+#### notes on creating classes
 
+Another thing I learned was that ```namespace``` is also known as your folder name. In the demo, they named thiers "HELLOWORLD"  so when the console was created, it gave the namespace "HelloWorld".
+
+I named mine as a complicated "c#-self-learn" and it gave me a weird namespace "c__self_learn".
+
+I blindly followed the tutorial and keyed in ```namespace HelloWorld``` and when I ran I had an error. It took me quite awhile to look for the error. 
